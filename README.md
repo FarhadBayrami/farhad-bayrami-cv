@@ -20,8 +20,7 @@ I am a Master of Science graduate in Artificial Intelligence with experience in:
 
 Click below to download:
 
-[Download CV (PDF)](./Farhad_Bayrami_CV.pdf)
-
+[Download CV (PDF)](https://github.com/FarhadBayrami/farhad-bayrami-cv/blob/main/CV__FARHAD__BAYRAMI.pdf)
 ---
 
 ## Contact
